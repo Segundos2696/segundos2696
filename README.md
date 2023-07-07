@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Segundos
 
  <div>
-   <a href="https://github.com/segundos">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=segundos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segundos&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/segundos2696">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=segundos2696&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=segundos2696&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
